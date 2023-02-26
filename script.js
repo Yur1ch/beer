@@ -101,3 +101,14 @@ function portfolioItemDetails(portfolioItem) {
     document.querySelector(".pp-body").innerHTML = 
     portfolioItem.querySelector(".portfolio-item-details").innerHTML;
 }
+
+f
+dg
+df
+gd
+fg
+dfg
+
+dfg
+df
+g
