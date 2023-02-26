@@ -100,4 +100,23 @@ function portfolioItemDetails(portfolioItem) {
 
     document.querySelector(".pp-body").innerHTML = 
     portfolioItem.querySelector(".portfolio-item-details").innerHTML;
+    
+    
+    
+    dsf
+    h
+    dfgh
+    d
+    hdfh
+    dhf
+    daf
+    ha
+    dfh
+    adf
+    had
+    fh
+    afh
+    da
+    hd
+    afh
 }
